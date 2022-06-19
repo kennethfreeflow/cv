@@ -48,7 +48,7 @@ Developed Mind the Trap, an online multiplayer party game. Made with `Unreal Eng
 
 Prototyped Wizard's Duel AR, a real-time, multiplayer augmented reality mobile game. Made with `Unity`, `GameSparks`, and `Google AR Core`.
 
-## Honors & Awards
+## Achievements
 
 ### 2018 Oculus Launch Pad Scholarship
 
