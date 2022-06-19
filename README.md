@@ -68,18 +68,22 @@ Jun 2011
 
 The UC San Diego Department of Bioengineering presented me this award for demonstrating excellence in leadership and innovation in developing student programs that connect student engineers with industry opportunities.
 
-## Publications
-
-### Demonstration of Refinity: An Interactive Holographic Signage for New Retail Shopping Experience
-
-May 2019
-
 ## Education
 
 ### MBA in Product Management & Entrepreneurship at Santa Clara University
 
 Sep 2018 - Mar 2022
 
-### B.S., Bioengineering at University of California, San Diego
+### B.S. in Bioengineering at University of California, San Diego
 
 Sep 2007 - Jun 2012
+
+## Publications
+
+[Demonstration of Refinity: An Interactive Holographic Signage for New Retail Shopping Experience](https://dl.acm.org/doi/fullHtml/10.1145/3290607.3313269). CHI Conference on Human Factors in Computing Systems. May 2019.
+
+## Press
+
+[The future of retail is a seamless digital and physical experience](https://retailtechinnovationhub.com/home/2019/8/7/the-future-of-retail-is-a-seamless-digital-and-physical-experience). Retail Technology Innovation Hub. Aug 2019.
+
+[Introducing the 2018 Oculus Launch Pad Scholarship recipients](https://www.oculus.com/blog/introducing-the-2018-oculus-launch-pad-scholarship-recipients/). Oculus Blog. Jul 2019.
