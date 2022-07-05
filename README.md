@@ -100,6 +100,8 @@ Sep 2007 - Jun 2012
 
 ## Press
 
+[How Two Non-Technical Founders Raised $2M And Started A SaaS Company](https://www.starterstory.com/stories/freeflow). Starter Story. Jul 2022.
+
 [The future of retail is a seamless digital and physical experience](https://retailtechinnovationhub.com/home/2019/8/7/the-future-of-retail-is-a-seamless-digital-and-physical-experience). Retail Technology Innovation Hub. Aug 2019.
 
 [Introducing the 2018 Oculus Launch Pad Scholarship recipients](https://www.oculus.com/blog/introducing-the-2018-oculus-launch-pad-scholarship-recipients/). Oculus Blog. Jul 2019.
